@@ -1,4 +1,8 @@
-### 🛠️ Tech Stack
+# Hey, I'm Anish 👋
+
+I'm a Flutter developer focused on building clean, scalable, cross-platform apps.  
+I enjoy creating education tools, AI-powered apps, and small experimental games.
+### 🛠️ Tech Stack 
 
 **Mobile & Frontend**
 - Flutter (UI/UX, animations, responsive design)
@@ -39,4 +43,20 @@
 - Firebase Console admin workflows
 - Supabase Dashboard admin tools
 - Web admin panels using Flutter Web (optional)
+### 🚀 Projects
+- **MAKstudy** — Live on Google Play; engineering education app.
+- **AgentBazar** — AI-agent powered marketplace app (in progress).
+- **Tic-Tac-Toe Game** — Lightweight logic + UI practice project.
 
+### 🎯 What I'm Learning
+- AI agent workflows  
+- App architecture & performance optimization  
+
+### 🌍 About Me
+- 2nd year Mechanical Engineering student  
+- Based in India  
+- Indie app builder exploring the AI + Flutter ecosystem
+
+### 📫 Contact
+- **Email:** anishdandapat.dev@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/anishdandapat
