@@ -8,7 +8,7 @@ I enjoy creating education tools, AI-powered apps, and small experimental games.
 - **Firebase (Auth, Firestore, Storage)**
 - **Supabase**
 - **REST APIs**
-- **State Management:** Provider / Riverpod (if you use one, add it)
+- **State Management:** Provider / Riverpod (if you're using one)
 
 ### 🚀 Projects
 - **MAKstudy** — Live on Google Play; engineering education app.
@@ -22,7 +22,8 @@ I enjoy creating education tools, AI-powered apps, and small experimental games.
 ### 🌍 About Me
 - 2nd year Mechanical Engineering student  
 - Based in India  
-- Building apps independently & exploring indie dev paths
+- Indie app builder exploring the AI + Flutter ecosystem
 
 ### 📫 Contact
-- GitHub Issues / Discussions
+- **Email:** anishdandapat.dev@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/anishdandapat
