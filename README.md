@@ -14,7 +14,6 @@ I enjoy creating education tools, AI-powered apps, and small experimental games.
 - Firebase Firestore (NoSQL data modeling, queries, indexing)
 - Firebase Storage
 - Firebase Cloud Messaging (push notifications)
-- Firebase Remote Config
 - Firebase App Check (security)
 - Firebase Analytics + Crashlytics
 - Supabase (Auth, Postgres DB, Row Level Security, Realtime)
@@ -42,7 +41,7 @@ I enjoy creating education tools, AI-powered apps, and small experimental games.
 **Admin Panel Development**
 - Firebase Console admin workflows
 - Supabase Dashboard admin tools
-- Web admin panels using Flutter Web (optional)
+- Web admin panels using Flutter Web
 ### 🚀 Projects
 - **MAKstudy** — Live on Google Play; engineering education app.
 - **AgentBazar** — AI-agent powered marketplace app (in progress).
