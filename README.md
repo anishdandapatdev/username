@@ -1,4 +1,3 @@
-# username
 # Hey, I'm Anish 👋
 
 I'm a Flutter developer focused on building clean, scalable, cross-platform apps.  
