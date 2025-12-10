@@ -7,7 +7,7 @@ I enjoy creating education tools, AI-powered apps, and small experimental games.
 **Mobile & Frontend**
 - Flutter (UI/UX, animations, responsive design)
 - Dart (OOP, async programming, isolates)
-- State Management: Provider, Riverpod, GetX, BLoC (use whichever you prefer)
+- State Management: Provider, Riverpod, GetX
 
 **Backend & Databases**
 - Firebase Authentication
